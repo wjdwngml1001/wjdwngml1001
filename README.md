@@ -15,7 +15,7 @@
 
 - Artificial Inteligence(ML, DL)
 - Frontend development
-- 
+- Algorithms
 - etc..
 
 #### :green_heart:  I studied at ...
