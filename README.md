@@ -23,3 +23,5 @@
 - SeoKang High School (2017.03.~2020.02.) - Junior Software Academy 동아리 회장(2018.09.~2019.08.), 부회장(2017.09.~2018.08.)
 - Youngcheon Middle School (2014.03.~2017.02.)
 - Kumgu Elementary School (2008.03.~2014.02.)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwjdwngml1001%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D63A3A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
