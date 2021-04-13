@@ -24,4 +24,11 @@
 - Youngcheon Middle School (2014.03.~2017.02.)
 - Kumgu Elementary School (2008.03.~2014.02.)
 
+#### :blue_heart: I lived ...
+- (now) Yeongtong-dong, Suwon, Gyeonggi-do
+- (HomeTown) Unnam-dong, Gwangsan-gu, Gwangju
+
+#### 💜 My Tmi is ...
+- 🎂 2001. 06. 16. 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwjdwngml1001%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D63A3A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
