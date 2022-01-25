@@ -26,7 +26,7 @@
 - Kumgu Elementary School (2008.03.~2014.02.)
 
 #### :blue_heart: I lived ...
-- (now) Yeongtong-dong, Suwon, Gyeonggi-do
+- (now) Seocheon-dong, Yongin, Gyeonggi-do
 - (HomeTown) Unnam-dong, Gwangsan-gu, Gwangju
 
 #### 💜 My Tmi is ...
