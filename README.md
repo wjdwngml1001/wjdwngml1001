@@ -18,12 +18,6 @@
 - Algorithms
 - etc..
 
-#### :green_heart:  I studied at ...
-
-- KyungHee University. Computer Science & Engineering (2020.03.~ now) - 컴퓨터공학과 학생회 홍보부(2021.03.~ now)
-- SeoKang High School (2017.03.~2020.02.) - Junior Software Academy 동아리 회장(2018.09.~2019.08.), 부회장(2017.09.~2018.08.)
-- Youngcheon Middle School (2014.03.~2017.02.)
-- Kumgu Elementary School (2008.03.~2014.02.)
 
 #### :blue_heart: I lived ...
 - (now) Seocheon-dong, Yongin, Gyeonggi-do
