@@ -1,6 +1,6 @@
 # Juhee Jung
 ###
-### _an aspiring developer_
+### _Frontend developer_
 ###
 ###
 ###
@@ -11,12 +11,9 @@
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node%2Ejs&logoColor=white) ![php](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 
-#### :heart:    I'm interested in ...
-
-- Artificial Inteligence(ML, DL)
-- Web(Front)
-- Algorithms
-- etc..
+#### :heart:    I'm studying
+- React.js
+- Algorithm(python, c++)
 
 
 #### :blue_heart: I lived ...
@@ -25,7 +22,7 @@
 
 #### 💜 My Tmi is ...
 - 🎂 2001. 06. 16. 
-- ISFP or ISTP
+- ISFP
 - KiaTigers Fan(KBO)
 - T1 Fan(LCK)
 
