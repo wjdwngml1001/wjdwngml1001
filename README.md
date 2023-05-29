@@ -1,4 +1,4 @@
-# Juhee Jung
+# Juhee Jeong
 ###
 ### _Frontend developer_
 ###
