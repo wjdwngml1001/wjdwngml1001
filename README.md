@@ -14,7 +14,8 @@
 #### :heart:    I'm studying
 - React.js
 - Algorithm(python, c++)
-
+- Database
+- Security
 
 #### :blue_heart: I lived ...
 - (now) Seocheon-dong, Yongin, Gyeonggi-do
